@@ -1,1 +1,2 @@
 este es un nuevo archivo creado para probar git y asi poder terminar el curso de git.
+Voy a proceder a agregar los datos personales del creardor del archivo.
