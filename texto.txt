@@ -1,12 +1,12 @@
 este es un nuevo archivo creado para probar git y asi poder terminar el curso de git.
 Voy a proceder a agregar los datos personales del creardor del archivo.
 Los datos son los siguientes 
-Nombre:
-Primer Apellido:
-Segundo Apellido:
-Correo:
-Numero Celular:
-Fecha de nacimiento:
-Estado civil:
-Nivel academico:
+Nombre:Angelo 
+Primer Apellido:Nuñez
+Segundo Apellido:Fonseca
+Correo:djaanf@gmail.com
+Numero Celular:83567797
+Fecha de nacimiento:13 de abril del 2019
+Estado civil:En una relacion
+Nivel academico:Universidad incompleta.
 
