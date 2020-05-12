@@ -1,5 +1,5 @@
 body {
-    background-color: teal;
+    background-color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
@@ -9,8 +9,24 @@ body {
     margin: 0 auto;
 }
 
-#principal {
+#cabecera {
     padding: 10px;
     border: 1px dotted;
+    background-color: cadetblue;
+    box-shadow: 10px 10px 10px black;
+    color: black;
+    margin-bottom: 10px;
     text-align: center;
+}
+
+#cabecera>nav>span {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#principal {
+    padding: 10px;
+    border: 2px dotted black;
+    text-align: center;
+    background-color: cadetblue;
 }
