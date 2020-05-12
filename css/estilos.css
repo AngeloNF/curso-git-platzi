@@ -9,6 +9,21 @@ body {
     margin: 0 auto;
 }
 
+#cabecera {
+    padding: 10px;
+    border: 1px dotted;
+    background-color: aquamarine;
+    box-shadow: 10px 10px 10px black;
+    color: black;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#cabecera>nav>span {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
 #principal {
     padding: 10px;
     border: 1px dotted;
