@@ -11,6 +11,7 @@ body {
 
 #principal {
     padding: 10px;
-    border: 1px dotted;
+    border: 3px dotted black;
     text-align: center;
+    background-color: cadetblue;
 }
